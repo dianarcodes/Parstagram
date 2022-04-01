@@ -21,6 +21,7 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
 ![Parstagram Part 2](https://media.giphy.com/media/mAkgz8uXxib36pVyQS/giphy.gif)
 
 
